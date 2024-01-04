@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(224, 195, 165);
+}
+
+.content{
+    display: flex;
+    align-items: normal;
+    background-color: white;
+    position: absolute;
+    top: 15vh;
+    left: 25vw;
+    width: 50vw;
+    height: 60vh;
+    border-radius: 10%;
+}
+
+#laptopimg{
+    width: 20vw;
+    height: 60vh;
+    border-top-left-radius: 10%;
+    border-bottom-left-radius: 10%;
+}
